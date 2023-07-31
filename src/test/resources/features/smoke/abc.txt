@@ -1,1 +1,2 @@
- this is first line in abc txt file
+ this is first line in abc txt file 
+ this is the second line 
